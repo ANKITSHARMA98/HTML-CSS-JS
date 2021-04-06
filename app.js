@@ -35,3 +35,7 @@ const highlightMenu = () => {
     elem.classList.remove('highlight');
   }
 };  
+
+
+window.addEventListener('scroll', highlightMenu);
+window.addEventListener('click', highlightMenu);
