@@ -267,6 +267,11 @@
     }
   
     .head__description {
-      font-size: 40px;
+      font-size: 50px;
     }
 }
+
+.main {
+    background-color: #131313;
+    padding: 10rem 0;
+  }
