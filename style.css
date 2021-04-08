@@ -235,4 +235,27 @@
     -mo-text-fill-color: transparent;
 }
 
+.head__description {
+    font-size: 60px;
+    background: #da22ff;
+    background: -webkit-linear-gradient(
+      to right,
+      #da22ff,
+      #ff6a00
+    ); 
+    background: linear-gradient(
+      to right,
+      #8f0eff,
+      #ee0979
+    ); 
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
 
+
+.highlight {
+    border-bottom: 4px solid rgb(126, 34, 172);
+}
